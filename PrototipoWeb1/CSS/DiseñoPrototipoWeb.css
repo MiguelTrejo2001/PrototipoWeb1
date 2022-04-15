@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1236px;
+    height: 768px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header{
+    width: 1131px;
+    height: 87px;
+    float: right;
+    background-color: blue;
+    }
+    header h1{
+    text-align: center;
+    line-height:87px;
+    font-family: Arial;
+    }
+
+#centraliz{
+    width: 953px;
+    height: 420px;
+    background-color: rgba(255, 220, 175, 0.63);
+    float: left;
+    margin-top: 19px;
+    margin-right: 13px;
+    }
+    #centraliz h2{
+    text-align: center;
+    line-height: 420px;
+    font-family: Arial;
+    }   
+
+#busquedamenor{
+    width: 267px;
+    height: 53px;
+    float: right;
+    background-color: rgb(197, 253, 200);
+    margin-top: 19px;
+    }
+    #busquedamenor h2{
+    text-align: center;
+    line-height: 53px;
+    font-family: Arial;
+    }
+
+#noticiagrande{
+    width: 267px;
+    height: 163px;
+    float: right;
+    background-color: rgb(233, 136, 209);
+    margin-top: 19px;
+    }
+    #noticiagrande h2{
+    text-align: center;
+    line-height: 163px;
+    font-family: Arial;
+    }
+
+#eventogrande{
+    width: 267px;
+    height: 163px;
+    float: right;
+    background-color:rgb(241, 176, 238) ;
+    margin-top: 19px;
+    }
+    #eventogrande h2{
+    text-align: center;
+    line-height: 163px;
+    font-family: Arial;
+    }
+
+#medioiz{
+    width: 953px;
+    height: 61px;
+    float: left;
+    background-color: rgba(65, 63, 61, 0.644);
+    margin-top: 19px;
+    margin-right: 13px;;
+    }
+    #medioiz h2{
+    text-align: center;
+    line-height: 61px;
+    font-family: Arial;
+    }
+
+#medioder{
+    width: 267px;
+    height: 61px;
+    float: right;
+    background-color: rgba(68, 68, 67, 0.329);
+    margin-top: 20px;
+    }
+    #medioder h2{
+    text-align: center;
+    line-height: 61px;
+    font-family: Arial;
+    }
+
+footer{
+    width: 1232.79px;
+    height: 56.6px;
+    background-color: blue;
+    margin-top: 19px;
+    float: right;
+    }
+    footer h2{
+    text-align: center;
+    line-height:56.6px;
+    font-family: Arial;
+    }
